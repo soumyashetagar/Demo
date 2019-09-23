@@ -1,4 +1,2 @@
 language: java
-jdk:
- - jdk1.6.0_45
 script:  ant build
