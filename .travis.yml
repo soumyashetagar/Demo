@@ -4,5 +4,5 @@ deploy:
      - provider: s3
        access_key_id: $Vijay_key
        secret_access_key: $vijay_pwd
-       bucket: 'vijayhegdebucket1'
+       bucket: 'vijayhegdebucket2'
        skip-cleanup: true
